@@ -8,4 +8,4 @@ Find me here: https://linktr.ee/Chinmay_Patel
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,java,python,react&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,java,python,react,flutter&perline=6)](https://skillicons.dev)
