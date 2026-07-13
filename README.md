@@ -93,6 +93,7 @@ I am Chinmay Patel , still a student. I am a tech enthusiast and a developer. Al
 
 
 <div align="center">
+  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 [![](https://visitcount.itsvg.in/api?id=chinmay1p&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
