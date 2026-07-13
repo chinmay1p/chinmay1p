@@ -44,7 +44,6 @@ Find me here: https://linktr.ee/Chinmay_Patel
 </div>
 
 ## 🛠 Tech Stack & Tools
-<h3>💻 Languages</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -54,10 +53,6 @@ Find me here: https://linktr.ee/Chinmay_Patel
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
 </div>
-
-<br>
-
-<h3>🎨 Frontend</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
@@ -67,9 +62,6 @@ Find me here: https://linktr.ee/Chinmay_Patel
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </div>
 
-<br>
-
-<h3>⚙️ Backend</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
@@ -79,9 +71,6 @@ Find me here: https://linktr.ee/Chinmay_Patel
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=swagger&logoColor=white" alt="REST API"/>
 </div>
 
-<br>
-
-<h3>🤖 AI • Data Science</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
   <img src="https://img.shields.io/badge/RAG-6A0DAD?style=for-the-badge" alt="RAG"/>
@@ -92,9 +81,6 @@ Find me here: https://linktr.ee/Chinmay_Patel
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 </div>
 
-<br>
-
-<h3>🗄️ Databases</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -102,9 +88,6 @@ Find me here: https://linktr.ee/Chinmay_Patel
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </div>
 
-<br>
-
-<h3>☁️ DevOps & Cloud</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
@@ -114,9 +97,6 @@ Find me here: https://linktr.ee/Chinmay_Patel
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </div>
 
-<br>
-
-<h3>🛠️ Tools</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
   <img src="https://img.shields.io/badge/OpenPyXL-1F6FEB?style=for-the-badge" alt="OpenPyXL"/>
@@ -125,9 +105,6 @@ Find me here: https://linktr.ee/Chinmay_Patel
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </div>
 
-<br>
-
-<h3>📚 Core Concepts</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-00599C?style=for-the-badge" alt="DSA"/>
   <img src="https://img.shields.io/badge/Object_Oriented_Programming-FF6F00?style=for-the-badge" alt="OOP"/>
