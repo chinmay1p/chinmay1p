@@ -3,6 +3,8 @@
 </div>
 
 I am Chinmay Patel, still a student. I am a tech enthusiast and a developer. Always open to collaborating on projects and innovative ideas.<br><br>
+Portfolio: https://www.chinmay-patel.dev
+
 Find me here: https://linktr.ee/Chinmay_Patel
 
 ## 💫 About Me: 
